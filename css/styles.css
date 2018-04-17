@@ -1,0 +1,58 @@
+.well {
+  background-color: orange;
+}
+
+.center {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+#row2 {
+  padding-top: 30px;
+}
+
+#row3 {
+  padding-top: 30px;
+}
+
+#coco {
+  float: right;
+  width: 400px;
+  height: 500px;
+}
+
+#pic {
+  border-radius: 50%;
+}
+
+.jumbotron {
+  background-image: url(/images/background3.jpg);
+  font-style: italic;
+  color: white;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.body {
+  background-color: lightblue;
+}
+
+#jum1 {
+  height: 540px;
+}
+p{
+  color: blue;
+}
+.bod{
+  background-color: blue;
+
+}
+li{
+  font-size: 18px;
+  font-family:monospace;
+}
